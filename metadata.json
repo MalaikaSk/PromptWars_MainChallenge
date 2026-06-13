@@ -1,0 +1,6 @@
+{
+  "name": "Serenity AI",
+  "description": "Personalized Emotional Wellness Companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
